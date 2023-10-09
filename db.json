@@ -1,19 +1,78 @@
 {
-  "posts": [
+  "orders": [
     {
-      "id": 1,
-      "title": "json-server",
-      "author": "typicode"
-    }
-  ],
-  "comments": [
+      "orderId": 281209,
+      "status": "Successful",
+      "transactionId": "131634495747",
+      "refundDate": "Today, 08:45 PM",
+      "orderAmount": "₹1,125.00"
+    },
     {
-      "id": 1,
-      "body": "some comment",
-      "postId": 1
+      "orderId": 281208,
+      "status": "Processing",
+      "transactionId": "131634495747",
+      "refundDate": "Yesterday, 3:00 PM",
+      "orderAmount": "₹1,125.00"
+    },
+    {
+      "orderId": 281207,
+      "status": "Successful",
+      "transactionId": "131634495747",
+      "refundDate": "12 JULY 2023,03:00 PM",
+      "orderAmount": "₹1,125.00"
+    },
+    {
+      "orderId": 281206,
+      "status": "Successful",
+      "transactionId": "131634495747",
+      "refundDate": "12 JULY 2023,03:00 PM",
+      "orderAmount": "₹1,125.00"
+    },
+    {
+      "orderId": 281205,
+      "status": "Successful",
+      "transactionId": "131634495747",
+      "refundDate": "12 JULY 2023,03:00 PM",
+      "orderAmount": "₹1,125.00"
+    },
+    {
+      "orderId": 281204,
+      "status": "Processing",
+      "transactionId": "131634495747",
+      "refundDate": "12 JULY 2023,03:00 PM",
+      "orderAmount": "₹1,125.00"
+    },
+
+    {
+      "orderId": 281203,
+      "status": "Processing",
+      "transactionId": "131634495747",
+      "refundDate": "12 JULY 2023,03:00 PM",
+      "orderAmount": "₹1,125.00"
+    },
+
+    {
+      "orderId": 281202,
+      "status": "Successful",
+      "transactionId": "131634495747",
+      "refundDate": "12 JULY 2023,03:00 PM",
+      "orderAmount": "₹1,125.00"
+    },
+
+    {
+      "orderId": 281201,
+      "status": "Processing",
+      "transactionId": "131634495747",
+      "refundDate": "12 JULY 2023,03:00 PM",
+      "orderAmount": "₹1,125.00"
+    },
+
+    {
+      "orderId": 281200,
+      "status": "Successful",
+      "transactionId": "131634495747",
+      "refundDate": "12 JULY 2023,03:00 PM",
+      "orderAmount": "₹1,125.00"
     }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  ]
 }
